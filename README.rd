@@ -1,1 +1,1 @@
-https://www.udemy.com/course/cypress-io-master-class/
+v6: https://www.udemy.com/course/cypress-io-master-class/
