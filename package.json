@@ -14,13 +14,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/chai": "4.2.15",
+    "@types/mocha": "8.2.1",
+    "chromedriver": "89.0.0",
     "cypress": "6.5.0",
     "cypress-intellij-reporter": "0.0.6",
+    "cypress-xpath": "^1.6.2",
     "install": "0.13.0",
     "npm": "7.6.0",
-    "typescript": "^4.2.2",
-    "@types/chai": "4.2.15",
-    "@types/mocha": "8.2.1"
+    "selenium-webdriver": "4.0.0-beta.1",
+    "typescript": "^4.2.2"
   },
   "devDependencies": {
     "@types/jest": "26.0.20",
