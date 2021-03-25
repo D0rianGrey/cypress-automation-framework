@@ -19,6 +19,7 @@
     "chromedriver": "89.0.0",
     "cypress": "6.8.0",
     "cypress-intellij-reporter": "0.0.6",
+    "cypress-sql-server": "^1.0.0",
     "cypress-xpath": "^1.6.2",
     "install": "0.13.0",
     "npm": "7.6.0",

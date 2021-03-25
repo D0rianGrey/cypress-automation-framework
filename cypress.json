@@ -1,1 +1,12 @@
-{}
+{
+  "db": {
+    "userName": "qc",
+    "password": "Qwerty!2",
+    "server": "localhost",
+    "options": {
+      "database": "",
+      "encrypt": true,
+      "rowCollectionOnRequestCompletion" : true
+    }
+  }
+}
