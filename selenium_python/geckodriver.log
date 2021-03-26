@@ -1,8 +1,0 @@
-1615626574413	geckodriver	INFO	Listening on 127.0.0.1:54678
-1615626577492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\utyfd\\AppData\\Local\\Temp\\rust_mozprofileVGFf6Q"
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
-console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
-1615626591087	Marionette	INFO	Listening on port 54683
-1615626591324	Marionette	WARN	TLS certificate errors will be ignored for this session
