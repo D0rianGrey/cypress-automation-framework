@@ -13,7 +13,7 @@
 // the project's config changing)
 
 /**
- * @type {{loadDBCommands: function(): void, loadDBPlugin: function(*=): {"sqlServer:execute": function(*=): Promise<unknown> | Promise<unknown>}}|{loadDBCommands?: function(): void, loadDBPlugin?: function(*=): {"sqlServer:execute": function(*=): Promise<unknown> | Promise<unknown>}}}
+ * @type {{loadDBCommands: function(): void, loadDBPlugin: function(*=): {"sqlServer:execute": function(*=): Promise<unknown>}}|{loadDBCommands?: function(): void, loadDBPlugin?: function(*=): {"sqlServer:execute": function(*=): Promise<unknown>}}}
  */
 const sqlServer = require('cypress-sql-server');
 module.exports = (on, config) => {

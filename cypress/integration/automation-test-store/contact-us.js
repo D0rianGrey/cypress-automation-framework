@@ -10,7 +10,9 @@ describe("Test Contact Us form via Automation Test Store", () => {
     //   "First Name",
     // );
 
-    cy.get("#ContactUsFrm_first_name", { log: false }).type("First Name");
+    cy.get("#ContactUsFrm_first_name", { log: false }).type("First Name").then((value)=>{
+      cy.log(`${value}`);
+    });
     cy.get("#ContactUsFrm_email", { log: false }).type("Email@gmail.com");
     cy.get("#ContactUsFrm_enquiry", { log: false }).type("Comment");
     cy.get(".col-md-6 > .btn", { log: false }).click();

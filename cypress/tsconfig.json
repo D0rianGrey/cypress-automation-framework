@@ -1,15 +1,8 @@
 {
   "compilerOptions": {
-    "strict": true,
     "target": "es5",
-    "lib": ["es6", "dom"],
-    "module": "es6",
-    "moduleResolution": "node",
-    "sourceMap": false,
-    "types": ["cypress"],
-    "downlevelIteration": true,
-    "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true
+    "lib": ["es5", "dom"],
+    "types": ["cypress"]
   },
-  "include": ["**/*.ts", "integration/automation-test-store/contact-us.js"]
+  "include": ["**/*.ts"]
 }
