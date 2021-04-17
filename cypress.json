@@ -1,11 +1,12 @@
 {
   "watchForFileChanges": false,
+  "chromeWebSecurity": false,
   "db": {
-    "userName": "qc",
-    "password": "Qwerty!2",
-    "server": "localhost",
+    "userName": "utyfdfrthby08",
+    "password": "87Qqr0Hc",
+    "server": "utyfdfrthby08.database.windows.net",
     "options": {
-      "database": "",
+      "database": "utyfdfrthby08",
       "encrypt": true,
       "rowCollectionOnRequestCompletion": true
     }

@@ -5,5 +5,9 @@
 declare namespace Cypress {
     interface Chainable {
         findAndType(locator: string, nameOfElement: string, value: string): Chainable<Element>
+
+        sqlServer(value: string): Chainable<Object>
+
+        sqlServerPro(value: string): Chainable<Object>
     }
 }
