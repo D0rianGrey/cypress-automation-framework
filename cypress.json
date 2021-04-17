@@ -1,4 +1,5 @@
 {
+  "watchForFileChanges": false,
   "db": {
     "userName": "qc",
     "password": "Qwerty!2",
@@ -6,7 +7,7 @@
     "options": {
       "database": "",
       "encrypt": true,
-      "rowCollectionOnRequestCompletion" : true
+      "rowCollectionOnRequestCompletion": true
     }
   }
 }
