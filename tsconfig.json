@@ -6,5 +6,5 @@
   },
   "include": [
     "**/*.ts"
-  ]
+, "cypress/integration/examples/contact_us_type_script.js"  ]
 }

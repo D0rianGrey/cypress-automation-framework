@@ -1,10 +1,9 @@
 {
-  "name": "CypressV5",
+  "name": "cypress_v_6",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "cy:open": "cypress open",
     "build": "tsc",
     "lint": "tsc --project tsconfig.lint.json",
@@ -17,7 +16,7 @@
     "@types/chai": "4.2.15",
     "@types/mocha": "8.2.1",
     "chromedriver": "89.0.0",
-    "cypress": "6.8.0",
+    "cypress": "7.1.0",
     "cypress-intellij-reporter": "0.0.6",
     "cypress-sql-server": "^1.0.0",
     "cypress-xpath": "^1.6.2",
