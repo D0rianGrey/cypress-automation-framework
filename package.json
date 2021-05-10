@@ -16,7 +16,7 @@
     "@types/chai": "4.2.15",
     "@types/mocha": "8.2.1",
     "chromedriver": "89.0.0",
-    "cypress": "7.1.0",
+    "cypress": "7.2.0",
     "cypress-commands": "^1.1.0",
     "cypress-intellij-reporter": "0.0.6",
     "cypress-xpath": "^1.6.2",
